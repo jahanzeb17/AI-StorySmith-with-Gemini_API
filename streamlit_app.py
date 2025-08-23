@@ -7,7 +7,7 @@ from langchain_groq import ChatGroq
 
 load_dotenv()
 
-os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
+# os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 
 def load_model():
     return ChatGroq(
@@ -202,4 +202,5 @@ with st.sidebar:
     - **Medium**: Balanced creativity and coherence
     - **High**: Creative with unexpected twists
     - **Very High**: Highly creative and unpredictable
+
     """)
