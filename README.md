@@ -23,6 +23,31 @@ An AI-powered web application that generates creative and unique stories based o
   - [**Streamlit**](https://streamlit.io/) - A framework for building the web application UI.
   - [**Requests**](https://docs.python-requests.org/en/latest/) - Used to make API calls to the backend.
 
+---
+
+## 📸 Screenshots
+
+Here are a few screenshots showcasing the application's user interface:
+
+### The Story Input Form
+A view of the main interface where users can enter character details and story settings.
+
+![The Story Input Form](public/1.png)
+![The Story Input Form](public/2.png)
+![The Story Input Form](public/3.png)
+
+### The Story Generation in Progress
+This image shows the loading state while the AI is crafting the story.
+
+![The Story Generation in Progress](public/image2.png)
+
+### The Final Story
+A screenshot of the generated story, complete with a download button.
+
+![The Final Story](public/image3.png)
+
+---
+
 ## 🛠️ Installation and Setup
 
 ### Prerequisites
@@ -64,6 +89,8 @@ An AI-powered web application that generates creative and unique stories based o
       GOOGLE_API_KEY="your_groq_api_key_here"
       ```
 
+---
+
 ## ▶️ Usage
 
 The application consists of a FastAPI backend and a Streamlit frontend. You need to run both concurrently.
@@ -81,5 +108,7 @@ The application consists of a FastAPI backend and a Streamlit frontend. You need
     streamlit run frontend.py
     ```
     This will open the web application in your default browser.
+
+---
 
 ## 🗺️ Project Structure
