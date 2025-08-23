@@ -31,14 +31,10 @@ Here are a few screenshots showcasing the application's user interface:
 
 ### The Story Input Form
 A view of the main interface where users can enter character details and story settings.
-
 ![The Story Input Form](public/1.png)
 
 ### The Story Generation in Progress
 This image shows the loading state while the AI is crafting the story.
-![The Story Input Form](public/2.png)
-
-
 ![The Story Generation in Progress](public/image2.png)
 
 ### The Final Story
