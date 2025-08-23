@@ -35,7 +35,7 @@ A view of the main interface where users can enter character details and story s
 
 ### The Story Generation in Progress
 This image shows the loading state while the AI is crafting the story.
-![The Story Generation in Progress](public/image2.png)
+![The Story Generation in Progress](public/2.png)
 
 ### The Final Story
 A screenshot of the generated story, complete with a download button.
@@ -47,7 +47,7 @@ A screenshot of the generated story, complete with a download button.
 
 ### Prerequisites
 
-- Python 3.9+
+- Python 3.12
 - A Groq API key (can be obtained from the Groq console).
 
 1.  **Clone the repository:**
