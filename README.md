@@ -107,3 +107,5 @@ The application consists of a FastAPI backend and a Streamlit frontend. You need
 ---
 
 ## 🗺️ Project Structure
+
+Author Jahanzeb Riaz
